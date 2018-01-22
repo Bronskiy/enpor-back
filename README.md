@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yii 2 Starter Kit
 
 <!-- BADGES/ -->
@@ -340,3 +341,6 @@ This template was created mostly for developers NOT for end users.
 This is a point where you can begin your application, rather than creating it from scratch.
 Good luck!
 
+=======
+# enpor-back
+>>>>>>> bef5361064c519da49d96f350b72815ba858f827
